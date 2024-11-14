@@ -31,11 +31,10 @@
 
 - ☁️ I've keen interest in cloud computing. So,I'm learning **AWS**
 
-- 📝 I regularly write articles on [Progrealm](https://www.progrealm.tech/)
+- 📝 I regularly write articles 
 
 - 💬 Ask me about **AWS, react, react-native, nodejs, mongoDB**
 
-- 📫 Feel free to reach me out **Sanskruti.hatwar@progrealm.tech**
 
 - 🏠 Also We've a tech community called [Discord](https://discord.com/invite/).
 <!--Intro end-->
@@ -66,7 +65,7 @@
 <!--- trophy (start) -->
 <div align=center>
   <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=Sanskrutihatwar&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
+      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=Sanskrutijagtap&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
     </a>
 </div>
 <!--- trophy (start) -->
@@ -111,7 +110,7 @@
 <!--profile visit count-->
 <div align="center">
   
-[![](https://visitcount.itsvg.in/api?id=Sanskrutihatwar&icon=3&color=6)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Sanskrutijagtap&icon=3&color=6)](https://visitcount.itsvg.in)
   
 </div>
 
